@@ -2,7 +2,8 @@ BEGIN:VCARD
 VERSION:3.0
 REV:2022-12-28T02:15:20Z
 FN:Mat Holcomb
+N: Holcomb, Mathew
 ORG:Beer City Landscapes
-EMAIL;INTERNET:Beer City Landscapes <beercitylandscapes@gmail.com>
-URL:https://beercitylandscapes.github.io
+EMAIL;SMTP:Beer City Landscapes <beercitylandscapes@gmail.com>
+URL:https://beercityscapes.github.io
 END:VCARD
