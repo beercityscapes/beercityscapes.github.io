@@ -59,6 +59,7 @@ h2.line {
   justify-content: center;
   font-size: clamp(4vh, 10rem, 6vh);
   text-align: center;
+  margin-bottom: 5rem;
 }
 
 #download a {
