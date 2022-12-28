@@ -12,7 +12,7 @@ export const Landing = () => (
       />
     </header>
     <main id={style.main}>
-      <h1 className={style.line}>Mat Holcomb</h1>
+      <h1 className={style.line}>Matt Holcomb</h1>
       <h2 className={style.line}>Proprietor</h2>
 
       <h2 id={style.tel} className={style.line}>
@@ -28,7 +28,7 @@ export const Landing = () => (
 
       <img className={style.separator} src={separator}/>
       <section id={style.download}>
-        <a href="/beer_city_scapes.vcf">Mat’s Contact Card</a>
+        <a href="/beer_city_scapes.vcf">Matt’s Contact Card</a>
       </section>
     </main>
   </section>
