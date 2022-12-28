@@ -1,11 +1,14 @@
 {
-  "name": "beercitylandscapes.github.io",
-  "version": "0.0.0",
+  "name": "beercityscapes.github.io",
+  "version": "0.0.3",
+  "license": "CC0-1.0",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build"
+    "build": "tsc && vite build",
+    "gh:publish": "gh-pages -d dist/ -m \"deployin' with gh-pages\""
   },
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
